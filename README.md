@@ -29,7 +29,7 @@ The business requirements were divided into **KPI Requirements**, **Granular Req
 ---
 
 ## 📊 Final Dashboard
-![Blinkit Dashboard](blinkit_dashboard_screenshot.png)
+[![Blinkit Dashboard](blinkit_dashboard_screenshot.png)](https://github.com/Shreyasreddy23/blinkit-powerbi-dashboard/blob/main/blinkit%20dashboard%20screenshot.png)
 
 ---
 
